@@ -6,8 +6,6 @@ This repo is a small, but working POC (Proof of Concept) of how we might accompl
 
 https://www.coursera.org/learn/ruby-on-rails-intro/lecture/RbJIe/blackbox-testing
 
-https://www.coursera.org/learn/ruby-on-rails-intro/lecture/RbJIe/blackbox-testing
-
 ## How do we blackbox-test a webapp (Rails or any webapp really) using Ruby? (And why should we use Ruby for this?)
 
 Enter [RSpec](https://relishapp.com/rspec/docs/gettingstarted) + [Capybara](https://github.com/jnicklas/capybara) ruby gems. When these 2 frameworks come together, you can write very intuitive and expressive tests. 
